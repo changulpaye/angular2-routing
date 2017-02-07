@@ -1,5 +1,5 @@
 {
-  "name": "Hello-Angular",
+  "name": "Angular2-Routing",
   "version": "1.0.0",
   "scripts": {
     "postinstall": "npm run typings install",
